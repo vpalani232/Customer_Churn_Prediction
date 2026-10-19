@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+boto3
+awswrangler
+sagemaker<3
