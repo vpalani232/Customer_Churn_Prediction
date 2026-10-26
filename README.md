@@ -57,7 +57,6 @@ Add `data/local/` and `.pipeline_build/` to `.gitignore`.
 | Monitoring | 06 | Written |
 | CI/CD | 07 | Written |
 
-"Written" means the code is in place; update this table as each notebook is run in SageMaker.
 
 ## License
 
